@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+6ed645289ebd8d8022339f01bda7fcdfed9d78c0
+6ed645289ebd8d8022339f01bda7fcdfed9d78c0
+6ed645289ebd8d8022339f01bda7fcdfed9d78c0
+6ed645289ebd8d8022339f01bda7fcdfed9d78c0
+pyinotify_0.9.6.orig.tar.gz
+815c5e5699669d44042efb12122b60e97cae7bf4
+61159
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
